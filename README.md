@@ -6,7 +6,7 @@
 * I've compiled DLIB manually with Cuda enabled & AVX(Facial recognition)
 
 # TensorFlow message codes [StackOverflow](https://stackoverflow.com/questions/35911252/disable-tensorflow-debugging-information)
-<br>  Code messages were **copied**. See the link above.
+* Code messages were **copied**. See the link above.
 1. = All messages are logged (default behavior)
 2. = INFO messages are not printed
 3. = INFO and WARNING messages are not printed
