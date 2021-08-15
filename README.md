@@ -14,3 +14,4 @@
 # Resources/current reads
 * AI and Machine Learning for Coders by Laurence Moroney
 * Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron
+* [Linear Algebra](https://www.youtube.com/watch?v=LlKAna21fLE)
