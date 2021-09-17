@@ -1,4 +1,4 @@
-# Deep Learning
+# Machine Learning
 
 # Environment
 * I am using a GPU with ML/AI with Cuda cores enabled.
