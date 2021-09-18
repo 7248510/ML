@@ -7,6 +7,11 @@
 * All libraries are using Cuda cores unless specified
 * Environment = Jupyter-lab & VSC/CLI
 
+# Libraries:
+* PyTorch
+* TensorFlow
+* Keras
+
 # Resources:
 * Deep Learning for Coders with fastai & PyTorch
 * AI and Machine Learning for Coders by Laurence Moroney
