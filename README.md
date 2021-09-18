@@ -1,20 +1,13 @@
 # Machine Learning
 
 # Environment
-* I am using a GPU with ML/AI with Cuda cores enabled.
-* venv's are used. 
+* I am using a GPU with Cuda cores enabled
+* Driver version = 11.2
 * I've compiled DLIB manually with Cuda enabled & AVX(Facial recognition)
-* PyTorch & FastAI are Cuda enabled
-* Environment = Jupyter-lab & CLI
+* All libraries are using Cuda cores unless specified
+* Environment = Jupyter-lab & VSC/CLI
 
-# TensorFlow message codes [StackOverflow](https://stackoverflow.com/questions/35911252/disable-tensorflow-debugging-information)
-* Code messages were **copied**. See the link above.
-1. = All messages are logged (default behavior)
-2. = INFO messages are not printed
-3. = INFO and WARNING messages are not printed
-4. = INFO, WARNING, and ERROR messages are not printed
-
-# Resources/current reads
+# Resources:
 * Deep Learning for Coders with fastai & PyTorch
 * AI and Machine Learning for Coders by Laurence Moroney
 * Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron
@@ -22,3 +15,14 @@
 
 # Links:
 * [NVIDIA CUDA Drivers](https://developer.nvidia.com/cuda-downloads)
+* [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
+* [PyTorch Tutorials](https://pytorch.org/tutorials/)
+* [Fast AI Documentation](https://docs.fast.ai/)
+* [TensorFlow Overview](https://www.tensorflow.org/overview)
+
+# TensorFlow message codes [StackOverflow](https://stackoverflow.com/questions/35911252/disable-tensorflow-debugging-information)
+* Code messages were **copied**. See the link above.
+1. = All messages are logged (default behavior)
+2. = INFO messages are not printed
+3. = INFO and WARNING messages are not printed
+4. = INFO, WARNING, and ERROR messages are not printed
