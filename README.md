@@ -11,6 +11,7 @@
 * PyTorch
 * TensorFlow
 * Keras
+* FastAI
 
 # Resources:
 * Deep Learning for Coders with fastai & PyTorch
