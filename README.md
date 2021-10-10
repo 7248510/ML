@@ -17,6 +17,7 @@
 * Deep Learning for Coders with fastai & PyTorch
 * AI and Machine Learning for Coders by Laurence Moroney
 * Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron
+* Microsoft's PyTorch modules
 * [Linear Algebra](https://www.youtube.com/watch?v=LlKAna21fLE)
 
 # Links:
@@ -25,6 +26,7 @@
 * [PyTorch Tutorials](https://pytorch.org/tutorials/)
 * [Fast AI Documentation](https://docs.fast.ai/)
 * [TensorFlow Overview](https://www.tensorflow.org/overview)
+* [Microsoft PyTorch modules](https://docs.microsoft.com/en-us/learn/browse/?terms=pytorch)
 
 # TensorFlow message codes [StackOverflow](https://stackoverflow.com/questions/35911252/disable-tensorflow-debugging-information)
 * Code messages were **copied**. See the link above.
