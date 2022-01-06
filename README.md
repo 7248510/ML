@@ -14,10 +14,10 @@
 * FastAI
 
 # Resources:
-* Deep Learning for Coders with fastai & PyTorch
+* Deep Learning with Python Second Edition by François Chollet
+* Deep Learning for Coders with fastai & PyTorch by Jeremy Howard 
 * AI and Machine Learning for Coders by Laurence Moroney
 * Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron
-* Microsoft's PyTorch modules
 * [Linear Algebra](https://www.youtube.com/watch?v=LlKAna21fLE)
 
 # Links:
